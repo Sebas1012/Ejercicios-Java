@@ -8,11 +8,10 @@ import java.text.DecimalFormat;
 import javax.swing.JOptionPane;
 
 public class Ejercicio_3 {
-
     public void notasEstudiantes() {
 
         /*Constantes*/
-        final int estudiantes = 5;
+        final int estudiantes = 30;
 
         /*Variables*/
         double acumulador = 0, promedio = 0;

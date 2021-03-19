@@ -11,8 +11,6 @@ package taller_1;
 import javax.swing.JOptionPane;
 
 public class Ejercicio_4 {
-
-
     public void digitosNumeros() {
         /*Variables*/
         int numero = Integer.parseInt(JOptionPane.showInputDialog("Ingrese un numero: "));

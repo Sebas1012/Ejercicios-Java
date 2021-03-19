@@ -8,8 +8,6 @@ package taller_1;
 import javax.swing.JOptionPane;
 
 public class Ejercicio_1 {
-
-
     public void notasAsignatura() {
         /*Variables*/
         int cantidad_estudiantes = Integer.parseInt(JOptionPane.showInputDialog("Ingrese la cantidad de estudiantes a calcular: "));

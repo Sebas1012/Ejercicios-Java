@@ -7,8 +7,6 @@ package taller_1;
 import javax.swing.JOptionPane;
 
 public class Ejercicio_2 {
-
-
     public void edadPersonas() {
         /*Variables*/
         int cantidad_personas = Integer.parseInt(JOptionPane.showInputDialog("Ingrese la cantidad de personas: "));

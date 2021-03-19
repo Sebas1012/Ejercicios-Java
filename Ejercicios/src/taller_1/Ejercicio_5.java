@@ -11,16 +11,9 @@ package taller_1;
 import javax.swing.JOptionPane;
 
 public class Ejercicio_5 {
-
-    // Atributos
-    int numero;
-
-        
-        /*Variables*/
-
     public void cuadradoNumero() {
-
-        numero = Integer.parseInt(JOptionPane.showInputDialog("Ingrese un numero: "));
+        /*Variables*/
+        int numero = Integer.parseInt(JOptionPane.showInputDialog("Ingrese un numero: "));
         int contador = 1, resultado = 0;
 
         for(int i = 1; i <= numero; i++){
