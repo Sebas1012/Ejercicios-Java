@@ -5,6 +5,8 @@ import java.util.Arrays;
 
 public class Ejercicio_1 {
     public static void main(String[] args) {
+
+
         int numero_enteros = Integer.parseInt(JOptionPane.showInputDialog("Ingrese la cantidad de numeros a almacenar: "));
         int vector[] = new int [numero_enteros];
         double acumulador = 0, promedio = 0, cercano = 0;
