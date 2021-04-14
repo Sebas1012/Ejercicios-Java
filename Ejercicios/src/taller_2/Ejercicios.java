@@ -6,14 +6,12 @@ import javax.swing.*;
 public class Ejercicios {
 
     //Atributos para el promedio
-    */
-/*int numero_enteros;
+    int numero_enteros;
     static int vector[];
     public static int numero_enteros;
     static double acumulador = 0;
     static double promedio = 0;
-    static double cercano = 0;*//*
-
+    static double cercano = 0;
 
     public void almacenarNumeros() {
 

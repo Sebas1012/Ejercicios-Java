@@ -1,0 +1,19 @@
+
+m	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç“ÞÓ8ÆÁæñŒ/
+v
+java:S30123"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(øÌÝË8ãÞñŒ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“•§ãþÿÿÿÿ8©·âòŒ/
+Z
+java:S1197>"8Move the array designator from the variable to the type.(ÿ‘«˜ÿÿÿÿÿ8ÆÁæñŒ/
+m	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆƒÏÌ8¸…ìñŒ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šô¹Øýÿÿÿÿ8ÌõßòŒ/
+Z
+java:S1197"8Move the array designator from the variable to the type.(ÄÒ™™øÿÿÿÿ8€ÓðñŒ/
+{
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ïà×™ýÿÿÿÿ8ÌÔ²ñŒ/
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(’™·Äÿÿÿÿÿ8¸ÅàñŒ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹Îˆýúÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(öÑè’ýÿÿÿÿ
+U
+java:S1197="8Move the array designator from the variable to the type.(Ç“ÞÓ8ÆÁæñŒ/
+r	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‘«˜ÿÿÿÿÿ8ÆÁæñŒ/
