@@ -5,18 +5,18 @@ import java.util.Arrays;
 
 public class Ejercicio_5 {
 
-    public static int[] union(int[] a, int[] b) {
+    public static int[] union(int[] vectorA, int[] vectorB) {
 
         int contador = 0;
-        int unionVectores[] = new int[a.length+b.length];
+        int unionVectores[] = new int[vectorA.length+vectorB.length];
 
-        //Ingreso los valores del arreglo a
-        for (int i = 0; i < a.length; i++) {
-            unionVectores[i] = a[i];
+        //Ingreso los valores del arreglo vectorA
+        for (int i = 0; i < vectorA.length; i++) {
+            unionVectores[i] = vectorA[i];
         }
-        //Ingreso los valores del arreglo b
-        for (int i = a.length; i < a.length+b.length; i++) {
-            unionVectores[i] = b[contador++];
+        //Ingreso los valores del arreglo vectorB
+        for (int i = vectorA.length; i < vectorA.length+vectorB.length; i++) {
+            unionVectores[i] = vectorB[contador++];
         }
         return unionVectores;
     }
