@@ -13,6 +13,7 @@ public class Ejercicio_2 {
         // Dimension del vector y almacenar
         System.out.println("Por favor digite la cantidad de elementos del vector: ");
         int n = entrada.nextInt();
+        System.out.println("La cantidad de elementos del vector es: " + n + "\n");
         int[] vec = new int[n];
 
         //Ingresar numeros aleatorios
@@ -22,11 +23,11 @@ public class Ejercicio_2 {
 
         //Mostrar numeros ingresados aleatoriamente del vector
         for (int i = 0; i < n; i++) {
-            System.out.println(vec[i] + "\t");
+            System.out.print(vec[i] + " ");
         }
 
         //Definir numero a buscar
-        System.out.println("Por favor ingrese un numero entero");
+        System.out.println("\n" + "Por favor ingrese un numero entero para buscar cuantas veces se repite");
         int numero = entrada.nextInt();
 
         //Buscar cantidad de veces que el numero se repite
