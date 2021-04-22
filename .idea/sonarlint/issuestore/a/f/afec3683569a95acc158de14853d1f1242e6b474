@@ -1,13 +1,13 @@
 
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ßÑşûÿÿÿÿ
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹Îˆıúÿÿÿÿ
 G
 java:S1659"%Declare "cercano" on a separate line.(å©¤Çûÿÿÿÿ8ÀëªêŒ/
-H
-java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
 k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šõ²İøÿÿÿÿ
-H
-java:S1659"&Declare "promedio" on a separate line.(å©¤Çûÿÿÿÿ8ÀëªêŒ/
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ßÑşûÿÿÿÿ
 Z
 java:S1197
 "8Move the array designator from the variable to the type.(Ùúúúÿÿÿÿ8ÀëªêŒ/
+H
+java:S1659"&Declare "promedio" on a separate line.(å©¤Çûÿÿÿÿ8ÀëªêŒ/

@@ -10,15 +10,19 @@ public class Ejercicio_2 {
 
     public void cantidadVeces() {
 
-        // Dimension del vector y almacenar
+        // Se digita la dimension del vector.
         System.out.println("Por favor digite la cantidad de elementos del vector: ");
         int n = entrada.nextInt();
+
+
         System.out.println("La cantidad de elementos del vector es: " + n + "\n");
+
+        //
         int[] vec = new int[n];
 
-        //Ingresar numeros aleatorios
+        //Ingresar numeros aleatorios a cada posicion del vector
         for (int i = 0; i < n; i++) {
-            vec[i] = 1 + (int) (Math.random() * 100);
+            vec[i] = 1 + (int) (Math.random() * 10);
         }
 
         //Mostrar numeros ingresados aleatoriamente del vector
@@ -41,12 +45,13 @@ public class Ejercicio_2 {
             System.out.println("\nEl dato aparece en total: " + contador + " veces.");
 
         } else {
-            System.out.print("nEl dato no aparece en el vector");
+            System.out.print("\nEl dato no aparece en el vector");
         }
     }
 
     public static void main(String[] args) {
 
+        //Creamos un objeto y posteriormente accedemos al metodo cantidadVeces.
         Ejercicio_2 contarVeces = new Ejercicio_2();
         contarVeces.cantidadVeces();
 

@@ -1,19 +1,19 @@
 
-m	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç“ŞÓ8ÆÁæñŒ/
+m	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆƒÏÌ8£àõŒ/
+Z
+java:S1197>"8Move the array designator from the variable to the type.(ÿ‘«˜ÿÿÿÿÿ8£àõŒ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“•§ãşÿÿÿÿ8©·âòŒ/
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(’™·Äÿÿÿÿÿ8£àõŒ/
 v
 java:S30123"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(øÌİË8ãŞñŒ/
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“•§ãşÿÿÿÿ8©·âòŒ/
-Z
-java:S1197>"8Move the array designator from the variable to the type.(ÿ‘«˜ÿÿÿÿÿ8ÆÁæñŒ/
-m	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆƒÏÌ8¸…ìñŒ/
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šô¹Øıÿÿÿÿ8ÌõßòŒ/
-Z
-java:S1197"8Move the array designator from the variable to the type.(ÄÒ™™øÿÿÿÿ8€ÓğñŒ/
-{
-java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ïà×™ıÿÿÿÿ8ÌÔ²ñŒ/
-Z	java:S106H"9Replace this use of System.out or System.err by a logger.(’™·Äÿÿÿÿÿ8¸ÅàñŒ/
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹Îˆıúÿÿÿÿ
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(öÑè’ıÿÿÿÿ
+r	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‘«˜ÿÿÿÿÿ8£àõŒ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šô¹Øıÿÿÿÿ8ÌõßòŒ/
 U
-java:S1197="8Move the array designator from the variable to the type.(Ç“ŞÓ8ÆÁæñŒ/
-r	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‘«˜ÿÿÿÿÿ8ÆÁæñŒ/
+java:S1197="8Move the array designator from the variable to the type.(Ç“ŞÓ8£àõŒ/
+U
+java:S1197"8Move the array designator from the variable to the type.(˜Êï§8€ÓğñŒ/
+m	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç“ŞÓ8£àõŒ/
+v
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Û 8ÌÔ²ñŒ/
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(öÑè’ıÿÿÿÿ
